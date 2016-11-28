@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MaterialDrawerTintTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_a">AAAAA</string>
+    <string name="drawer_b">BBBBB</string>
+    <string name="drawer_c">CCCCC</string>
+    <string name="drawer_d">DDDDD</string>
+</resources>

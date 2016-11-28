@@ -83,6 +83,12 @@ public class MainActivity extends AppCompatActivity {
                                     @Override
                                     public void run() {
                                         result.setSelection(C);
+                                        handler.postDelayed(new Runnable() {
+                                            @Override
+                                            public void run() {
+                                                result.setSelection(D);
+                                            }
+                                        }, 1000);
                                     }
                                 }, 1000);
 
